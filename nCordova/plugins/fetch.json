@@ -1,0 +1,27 @@
+{
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device"
+        }
+    },
+    "org.apache.cordova.console": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.console"
+        }
+    },
+    "com.megster.cordova.bluetoothserial": {
+        "source": {
+            "type": "registry",
+            "id": "com.megster.cordova.bluetoothserial"
+        }
+    },
+    "co.mwater.opencvactivityplugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mWater/OpenCVActivityPlugin.git",
+            "subdir": "."
+        }
+    }
+}
